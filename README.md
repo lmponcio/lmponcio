@@ -1,8 +1,18 @@
-
+<!--
+Inspiration from these sources:
+https://www.sitepoint.com/github-profile-readme/
+https://zzetao.github.io/awesome-github-profile/
+https://github.com/aemmadi
+https://www.linkedin.com/in/jorpilo/
+-->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" width="100"/>
 </div>
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mponcio/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <h1 align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
