@@ -18,25 +18,37 @@ https://www.linkedin.com/in/jorpilo/
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### 👨‍💻 &nbsp;About Me :
+
+I'm a Developer, Engineer, and Educator based in Sydney. I am passionate about web technologies, cloud computing and automating workflows.
+
+- 🔭 I’m currently working at Code Camp
+- 🌱 I’m currently learning PostgreSQL, AWS and Django
+- 📫 [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSfKKBZ2g0wU4gmcbx85TwXfBy7eLzgrO9WL0VW56NyqQB_AhA/viewform)
+
+### 🛠 &nbsp;Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+
+</div>
+
+### ✍️ Web Site / Blog :
+
+<a href="https://www.aloneinthesea.com">
+<img src="https://lh6.googleusercontent.com/61UIvPeUxKqx35rq7_Yz1Fj-nf5yNNjsfvmBHnyyaZrkjQg9ykRUy3oF-K3HhpuiGiQ-d-icQkFO-7iSRhB1N1oOEywIOlaiUI6EE0Net-_axAVvWMLh_La7vz5dk-nO3g=w3780" title="AitS" alt="AitS" height="65"/>&nbsp;
+</a>
+
 
 <!--
-to add soon:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+extra badges:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmponcio&hide=TeX&layout=compact)
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+for more:
+https://github.com/devicons/devicon/tree/master/icons
 -->
