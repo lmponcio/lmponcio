@@ -22,7 +22,7 @@ https://www.linkedin.com/in/jorpilo/
 
 I'm a Developer, Engineer, and Educator based in Sydney. I am passionate about web technologies, cloud computing and automating workflows.
 
-- 🔭 I’m currently working at Code Camp
+- 🔭 I’m currently working as an Educator at Code Camp
 - 🌱 I’m currently learning PostgreSQL, AWS and Django
 - 📫 [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSfKKBZ2g0wU4gmcbx85TwXfBy7eLzgrO9WL0VW56NyqQB_AhA/viewform)
 
