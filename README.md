@@ -20,7 +20,7 @@ https://www.linkedin.com/in/jorpilo/
 
 ### 👨‍💻 &nbsp;About Me :
 
-I'm a Developer, Engineer, and Educator based in Sydney. I am passionate about automating workflows (Python), web technologies (Django), and cloud computing (AWS).
+I'm a Developer, Engineer, and Educator based in Sydney. I am passionate about automating workflows, web technologies, and cloud computing.
 
 - ⭐ I have significant experience in developing Python and LISP scripts for task automation, coupled with valuable experience as an Engineering Manager.
 - 🔭 Currently, I am employed as an Educator at Code Camp, which presents an excellent opportunity for me to enhance my JavaScript.
