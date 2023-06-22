@@ -27,7 +27,7 @@ I'm a Developer, Engineer, and Educator based in Sydney. I am passionate about a
 - 🌱 At present, I am dedicated to expanding my knowledge in AWS.
 
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp; Technologies :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
