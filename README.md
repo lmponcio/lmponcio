@@ -3,7 +3,6 @@ Inspiration from these sources:
 https://www.sitepoint.com/github-profile-readme/
 https://zzetao.github.io/awesome-github-profile/
 https://github.com/aemmadi
-https://www.linkedin.com/in/jorpilo/
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" width="100"/>
@@ -20,7 +19,7 @@ https://www.linkedin.com/in/jorpilo/
 
 ### 👨‍💻 &nbsp;About Me :
 
-I'm a Developer, Engineer, and Educator based in Sydney. I am passionate about automating workflows, web technologies, and cloud computing.
+I'm a Developer and Engineer based in Sydney. I am passionate about automating workflows.
 
 - ⭐ I have significant experience in developing Python and LISP scripts for task automation, coupled with valuable experience as an Engineering Manager.
 - 🔭 Currently, I am employed as an Educator at Code Camp.
