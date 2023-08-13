@@ -21,7 +21,7 @@ https://github.com/aemmadi
 
 I'm a Developer and Engineer based in Sydney. I am passionate about automating workflows.
 
-- ⭐ I have significant experience in developing Python and LISP scripts for task automation, coupled with valuable experience as an Engineering Manager.
+- ⭐ I have significant experience in developing Python and AutoLISP scripts for task automation, coupled with valuable experience as an Engineering Manager.
 - 🔭 Currently, I am employed as an Educator at Code Camp.
 - 🌱 At present, I am dedicated to expanding my knowledge in AWS.
 
