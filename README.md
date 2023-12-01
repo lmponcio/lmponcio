@@ -19,11 +19,7 @@ https://github.com/aemmadi
 
 ### 👨‍💻 &nbsp;About Me :
 
-I'm a Civil Engineer that codes. I am passionate about automating workflows.
-
-- ⭐ I have significant experience in developing Python, VBA and AutoLISP scripts for task automation, coupled with valuable experience as an Engineering Manager.
-- 🔭 Currently, I am employed as an Educator at Code Camp.
-- 🌱 At present, I am dedicated to expanding my knowledge in AWS.
+- 🔭 Currently, I am working as a Software Developer at Northrop.
 
 
 ### 🛠 &nbsp; Technologies :
