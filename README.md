@@ -35,7 +35,7 @@ https://github.com/aemmadi
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
- <a href="https://aloneinthesea.com/git/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
+ <a href="https://aloneinthesea.com/git/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="View Git tutorials authored by me" **alt="Git" width="40" height="40"/></a>&nbsp;
   <img src="https://user-images.githubusercontent.com/80189444/115104451-84c4dd80-9f26-11eb-8e8f-bce9a372407b.jpg" title="AutoLISP" alt="AutoLISP" width="40" height="38"/>&nbsp;
 </div>
 
