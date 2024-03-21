@@ -24,8 +24,9 @@ https://github.com/aemmadi
 
 ### 🛠 &nbsp; Technologies :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  
+<a href="https://aloneinthesea.com/cs/"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/></a>&nbsp; 
+<a href="https://aloneinthesea.com/revit-api/"><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,7 +36,7 @@ https://github.com/aemmadi
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
- <a href="https://aloneinthesea.com/git/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="View Git tutorials authored by me" **alt="Git" width="40" height="40"/></a>&nbsp;
+ <a href="https://aloneinthesea.com/git/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="View Git tutorials authored by me" alt="Git" width="40" height="40"/></a>&nbsp;
   <img src="https://user-images.githubusercontent.com/80189444/115104451-84c4dd80-9f26-11eb-8e8f-bce9a372407b.jpg" title="AutoLISP" alt="AutoLISP" width="40" height="38"/>&nbsp;
 </div>
 
