@@ -38,8 +38,8 @@ https://github.com/aemmadi
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
  <a href="https://aloneinthesea.com/git/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="View Git tutorials authored by me" alt="Git" width="40" height="40"/></a>&nbsp;
   <img src="https://user-images.githubusercontent.com/80189444/115104451-84c4dd80-9f26-11eb-8e8f-bce9a372407b.jpg" title="AutoLISP" alt="AutoLISP" width="40" height="38"/>&nbsp;
+  <a href="https://github.com/lmponcio/aits-code_snippets/tree/main/Ruby-Scripts"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="38"/></a>&nbsp;
 </div>
-
 <!--
 
 - 📫 [Contact Form]()
