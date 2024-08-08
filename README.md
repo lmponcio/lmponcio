@@ -18,7 +18,7 @@ https://github.com/aemmadi
 -->
 <div align="center">
   <a href="https://aloneinthesea.com">
-    <img src="./logoAitS300NoBackground.png" alt="AitS Image">
+    <img src="./aloneinthesea.gif" alt="AitS Image">
   </a>
 </div>
 
