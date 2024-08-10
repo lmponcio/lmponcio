@@ -17,10 +17,13 @@ https://github.com/aemmadi
 </h1>
 -->
 <div align="center">
-  <a href="https://aloneinthesea.com">
-    <img src="./aloneinthesea.gif" alt="AitS Image">
-  </a>
+  <kbd>
+    <a href="https://aloneinthesea.com">
+      <img src="./aloneinthesea.gif" alt="AitS Image" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+    </a>
+  </kbd>
 </div>
+
 
 ### 👨‍💻 &nbsp;About Me :
 
