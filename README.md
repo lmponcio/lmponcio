@@ -32,7 +32,7 @@ https://github.com/aemmadi
 
 ### 🛠 &nbsp; Technologies :
 <div>
-  
+  <!--icons below (one line) -->  
 <a href="https://aloneinthesea.com/cs/"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/></a>&nbsp; 
 <a href="https://aloneinthesea.com/revit-api/"><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lmponcio/DocumentsFilter"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
@@ -41,6 +41,7 @@ https://github.com/aemmadi
 <a href="https://github.com/lmponcio/Django-Issue-Tracker"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lmponcio/Django-Issue-Tracker"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/lmponcio/PostgreSQL-db-gelato"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/lmponcio/aits-code_snippets/tree/main/Ruby-Scripts"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="38"/></a>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -48,6 +49,7 @@ https://github.com/aemmadi
  <a href="https://github.com/lmponcio/AutoLISP-Smiles">
   <img src="https://user-images.githubusercontent.com/80189444/115104451-84c4dd80-9f26-11eb-8e8f-bce9a372407b.jpg" title="AutoLISP" alt="AutoLISP" width="40" height="38"/></a>&nbsp;
   <a href="https://github.com/lmponcio/aits-code_snippets/tree/main/Ruby-Scripts"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="38"/></a>&nbsp;
+  <!--icons above (one line) -->
 </div>
 
 <!--
