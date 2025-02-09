@@ -51,6 +51,8 @@ https://github.com/aemmadi
  <a href="https://github.com/lmponcio/AutoLISP-Smiles">
   <img src="https://user-images.githubusercontent.com/80189444/115104451-84c4dd80-9f26-11eb-8e8f-bce9a372407b.jpg" title="AutoLISP" alt="AutoLISP" width="40" height="38"/></a>&nbsp;
   <a href="https://github.com/lmponcio/aits-code_snippets/tree/main/Ruby-Scripts"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="38"/></a>&nbsp;
+<a href="https://aloneinthesea.com/tags/#bash"><img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" title="Click for `Bash` related articles and code I wrote" alt="Bash" width="40" height="38"/></a>&nbsp;
+
   <!--icons above (one line) -->
 </div>
 
